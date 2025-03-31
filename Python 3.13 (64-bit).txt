@@ -1,0 +1,23 @@
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a=1
+>>> b=2
+>>> c=a+b
+>>> print(c)
+3
+>>> a=2
+>>> b=1
+>>> c=a-b
+>>> print(c)
+1
+>>> a=2
+>>> b=4
+>>> c=a*b
+>>> print(c)
+8
+>>> a=4
+>>> b=2
+>>> c=a/b
+>>> print(c)
+2.0
+>>>
